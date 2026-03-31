@@ -21,3 +21,5 @@ The system demonstrates Operating Systems concepts through a multi-process desig
 
 ## Execution
 To build the project:
+```bash
+./monitor [parameters]```
